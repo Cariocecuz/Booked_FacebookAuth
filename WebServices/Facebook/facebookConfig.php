@@ -3,7 +3,7 @@
 //Booked Settings
 
 //Uses the Facebokk PHP SDK Client Library to get the user information
-//Needs to be installed using Composer-> composer require google/apiclient:"^2.0"
+//Needs to be installed using Composer-> composer require facebook/graph-sdk:"~5.0"
 //Or manually installed
 
 //Error Message
