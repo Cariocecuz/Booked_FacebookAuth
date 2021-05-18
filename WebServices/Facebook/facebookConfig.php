@@ -2,12 +2,12 @@
 
 //Booked Settings
 
-//Uses the Google PHP SDK Client Library to get the user information
+//Uses the Facebokk PHP SDK Client Library to get the user information
 //Needs to be installed using Composer-> composer require google/apiclient:"^2.0"
 //Or manually installed
 
 //Error Message
-define("DEFAULT_ERROR_MESSAGE", "Something went wrong, with google login.");
+define("DEFAULT_ERROR_MESSAGE", "Something went wrong, with facebook login.");
 
 /*This config file must be filled out before using the facebook sign in
 a facebook aplication must be created from
