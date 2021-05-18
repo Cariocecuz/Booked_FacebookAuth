@@ -19,9 +19,9 @@ in my case I used localhost this must be changed.*/
 
 //Facebook Services Constants
 //Facebook APP ID
-define("APP_ID","308761970692425");
+define("APP_ID","");
 //Facebook APP secret 
-define("APP_SECRET","da8a6645d2032b17d2beb55bfdd2b5a1");
+define("APP_SECRET","");
 //URL to Web/facebookAuth.php in your Web folder
 define("APP_URL","http://localhost/BookedScheduler-develop/Web/facebookAuth.php"); 
 
